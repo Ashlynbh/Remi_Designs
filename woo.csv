@@ -1,0 +1,82 @@
+,id,date,quantity,item,collection,colour,size,clothing type,sales avenue,payment method,pre discount price,discount cash,post discount price,shipping,refunded,customer name,customer email,customer country,customer state,time
+0,A5638,2022-09-22,1,Cocoa Flared Pants ,Babylon Club, Brown,10,Pants,Online,Afterpay,130.00,13.00,117.00,Standard Australian Shipping,not refunded,aisling walsh,aislingwalsh851985@gmail.com,AU,WA,13:17:17
+1,A5637,2022-09-21,1,Marigold Dress ,Babylon Club, Orange,12,Dress,Online,Credit card / debit card,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Meaghan Littleton,meaghanclaire@hotmail.com,AU,WA,18:15:48
+2,A5636,2022-09-21,1,Marigold Blouse ,Babylon Club, Orange,8,Top,Online,PayPal,100.00,0.00,100.00,Free shipping,not refunded,Sheridan Barr,sheridanLB@hotmail.com,AU,QLD,11:34:38
+3,A5635,2022-09-20,1,Elvira Crop ,Babylon Club, White,8,Top,Online,PayPal,75.00,7.50,67.50,Standard Australian Shipping,not refunded,Jessica Serafino,jessicaserafino@hotmail.com,AU,WA,20:48:34
+4,A5634,2022-09-20,1,Marigold Blouse ,Babylon Club, Orange,10,Top,Online,Afterpay,100.00,10.00,90.00,Standard Australian Shipping,not refunded,Tanita Johnson,cassie_johnson123@hotmail.com,AU,WA,17:39:43
+5,A5632,2022-09-17,1,Elvira Dress ,Babylon Club, White,10,Dress,Online,Credit card / debit card,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Brooke Small,brooke_ella@live.com.au,AU,WA,08:18:43
+6,A5631,2022-09-16,1,Blu Collar Bra ,Tempo Libero, Blue,8,Top,Online,PayPal,85.00,0.00,85.00,Standard Australian Shipping,not refunded,Jaimee Taylor-Nielsen,jaimeetn@gmail.com,AU,NSW,18:47:39
+7,A5630,2022-09-15,1,Arancia Collar Bra ,Tempo Libero, Orange,14,Top,Online,Credit card / debit card,85.00,8.50,76.50,Standard Australian Shipping,not refunded,Tori Bollands,toria484@gmail.com,AU,VIC,18:19:12
+8,A5629,2022-09-14,1,Elvira Dress ,Babylon Club, White,10,Dress,Online,Credit card / debit card,130.00,0.00,130.00,Express Australian Shipping,not refunded,Deanne Brown,deanne.brown1612@gmail.com,AU,WA,11:37:42
+9,A5628,2022-09-12,1,Elvira Mini Skirt ,Babylon Club, White,6,Skirt,Online,Credit card / debit card,75.00,0.00,75.00,Standard Australian Shipping,not refunded,Danielle Neumann,danielleneumann03@gmail.com,AU,SA,20:06:10
+12,A5598,2022-08-31,1,Cocoa Flared Pants ,Babylon Club, Brown,8,Pants,Online,Afterpay,130.00,13.00,117.00,Express Australian Shipping,not refunded,Marlee Nash,marz_zep@hotmail.com,AU,NSW,19:23:38
+13,A5597,2022-08-30,1,Elvira Dress ,Babylon Club, White,10,Dress,Online,PayPal,130.00,0.00,130.00,Free shipping,not refunded,Shelley Mansfield,oceanhull@hotmail.com,AU,WA,22:10:28
+16,A5542,2022-08-12,1,Blu Bra ,Tempo Libero, Blue,10,Top,Online,PayPal,64.00,0.00,64.00,Standard Australian Shipping,not refunded,Mitchell Scott,mkscott.97@gmail.com,AU,NSW,19:43:10
+17,A5539,2022-08-11,1,Arancia Short Shorts ,Tempo Libero, Brown,10,Shorts,Online,Afterpay,68.00,9.00,68.00,Express Australian Shipping,not refunded,Tanita Johnson,tanitajohnson91@gmail.com,AU,WA,22:19:24
+18,A5528,2022-08-08,1,Elvira Dress ,Babylon Club, White,8,Dress,Online,PayPal,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Annabella Dickson,ciao@mixtapestudio.com.au,AU,VIC,13:40:47
+19,A5526,2022-08-08,1,Marigold Halter ,Babylon Club, Orange,12,Top,Online,PayPal,70.00,0.00,70.00,Free shipping,not refunded,Tanielle Green,taniellestylist@gmail.com,AU,WA,08:09:54
+29,A5516,2022-08-07,1,Elvira Blouse ,Babylon Club, White,12,Top,Online,PayPal,100.00,0.00,100.00,Express Australian Shipping,not refunded,Emily Hollow,emily.hollow@westnet.com.au,AU,WA,21:23:22
+31,A5514,2022-08-06,1,Marigold Halter ,Babylon Club, Orange,6,Top,Online,PayPal,70.00,20.00,63.00,Express Australian Shipping,not refunded,Katelyn Franks,katelyn.franks13.11@gmail.com,AU,QLD,13:34:30
+32,A5513,2022-08-04,1,Arancia Short Shorts ,Tempo Libero, Brown,6,Shorts,Online,Afterpay,68.00,0.00,68.00,Standard Australian Shipping,not refunded,Monique Gajda,moniquegajda8@gmail.com,AU,WA,19:39:30
+33,A5512,2022-08-04,1,Arancia Bra ,Tempo Libero, Orange,10,Top,Online,PayPal,64.00,0.00,64.00,Standard Australian Shipping,not refunded,Kate Fink,gosh_kate@hotmail.com,AU,WA,19:29:22
+34,A5511,2022-08-04,1,Arancia Shirt ,Tempo Libero, Orange,6,Top,Online,PayPal,68.00,0.00,68.00,Standard Australian Shipping,not refunded,Annabelle Bune,annabellebune02@gmail.com,AU,WA,17:50:30
+35,A5392,2022-08-02,1,Marigold Mini Skirt ,Babylon Club, Orange,12,Skirt,Online,PayPal,75.00,0.00,75.00,Standard Australian Shipping,not refunded,Ebonii Kwock-Sun Barker,eboniiksb@outlook.com,AU,QLD,17:39:42
+36,A5390,2022-08-01,1,Marigold Mini Skirt ,Babylon Club, Orange,8,Skirt,Online,PayPal,75.00,0.00,75.00,Express Australian Shipping,not refunded,Sala Thomas,salathomas08@gmail.com,AU,WA,21:56:45
+37,A5389,2022-07-28,1,Marigold Blouse ,Babylon Club, Orange,12,Top,Online,PayPal,100.00,10.00,90.00,Standard Australian Shipping,not refunded,Amanda Fink,oldtrout@iinet.net.au,AU,WA,16:48:20
+38,A5386,2022-07-24,1,Marigold Blouse ,Babylon Club, Orange,12,Top,Online,PayPal,100.00,10.00,90.00,Standard Australian Shipping,not refunded,Amanda Fink,sandafink64@gmail.com,AU,WA,21:54:58
+39,A5385,2022-07-23,1,Marigold Halter ,Babylon Club, Orange,10,Top,Online,PayPal,70.00,0.00,70.00,Free shipping,not refunded,Lilly Walker,lillypillyrose13@gmail.com,AU,WA,12:33:18
+40,A5383,2022-07-14,1,Elvira Flared Pants ,Babylon Club, White,12,Pants,Online,Afterpay,130.00,0.00,130.00,Free shipping,not refunded,Jay Nixon,jaytnixon@hotmail.co.uk,AU,NSW,05:24:03
+41,A5382,2022-07-14,1,Elvira Flared Pants ,Babylon Club, White,12,Pants,Online,Afterpay,130.00,26.00,117.00,Free shipping,not refunded,Jay Nixon,jaytnixon@hotmail.co.uk,AU,NSW,05:22:27
+42,A5381,2022-07-13,1,Marigold Romper ,Babylon Club, Orange,8,Romper,Online,PayPal,130.00,13.00,117.00,Express Australian Shipping,not refunded,Emily Mitchell,emilygeorgiamitchell@gmail.com,AU,NSW,12:49:23
+43,A5380,2022-07-12,1,Marigold Dress ,Babylon Club, Orange,8,Dress,Online,PayPal,130.00,13.00,117.00,Standard Australian Shipping,not refunded,Ilenia Monaco,ismonaco.02@gmail.com,AU,WA,21:17:30
+44,A5379,2022-07-10,1,Elvira Dress ,Babylon Club, White,10,Dress,Online,Afterpay,130.00,13.00,117.00,Standard Australian Shipping,not refunded,Emily Harrison,emilyharro5@gmail.com,AU,VIC,13:00:11
+45,A5378,2022-07-09,1,Marigold Flared Pants ,Babylon Club, Orange,10,Pants,Online,Afterpay,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Olivia Pusey,oliviajpusey@gmaol.com,AU,WA,11:33:22
+46,A5377,2022-07-06,1,Marigold Flared Pants ,Babylon Club, Orange,10,Pants,Online,PayPal,130.00,13.00,117.00,Standard Australian Shipping,not refunded,Beth Reys,bethr3ys@gmail.com,AU,VIC,17:26:27
+49,A5354,2022-06-13,1,Marigold Mini Skirt ,Babylon Club, Orange,10,Skirt,Online,PayPal,75.00,0.00,75.00,International Flat Rate,not refunded,Gina Rulli,dearmrgina@gmail.com,US,WA,21:41:24
+50,A5353,2022-06-13,1,Elvira Mini Skirt ,Babylon Club, White,10,Skirt,Online,PayPal,75.00,0.00,75.00,Express Australian Shipping,not refunded,Isabel Clements,isabelvclements@gmail.com,AU,VIC,17:54:06
+51,A5352,2022-06-11,1,Elvira Blouse ,Babylon Club, White,8,Top,Online,Afterpay,100.00,0.00,100.00,Standard Australian Shipping,not refunded,Hope Stevens,hopejayde@hotmail.com,AU,WA,11:33:41
+52,A5348,2022-06-08,1,Elvira Blouse ,Babylon Club, White,8,Top,Online,PayPal,100.00,172.50,25.00,Free shipping,not refunded,Remi Lane,remi.lane@hotmail.com,AU,WA,11:14:18
+53,A5346,2022-06-06,1,Marigold Flared Pants ,Babylon Club, Orange,14,Pants,Online,Afterpay,130.00,0.00,130.00,Express Australian Shipping,not refunded,Dianne Elliot,dmelliot4@hotmail.com,AU,WA,10:41:00
+57,A5339,2022-05-29,1,Elvira Dress ,Babylon Club, White,10,Dress,Online,PayPal,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Nikita Borowiec,borowiec.nikita@outlook.com.au,AU,WA,15:45:00
+66,A5330,2022-05-22,1,Cocoa Flared Pants ,Babylon Club, Brown,14,Pants,Online,Afterpay,130.00,0.00,130.00,Express Australian Shipping,not refunded,Justine Crowther,jcrowther@hotmail.com,AU,WA,11:35:59
+67,A5328,2022-05-19,1,Elvira Flared Pants ,Babylon Club, White,8,Pants,Online,PayPal,130.00,0.00,130.00,Free shipping,refunded,Tash Peterson,tashpeterson57@gmail.com,AU,WA,14:44:15
+68,A5327,2022-05-18,1,Elvira Halter ,Babylon Club, White,8,Top,Online,PayPal,70.00,0.00,70.00,Free shipping,not refunded,Jodi Gardiner,jodi.gardiner@optusnet.com.au,AU,WA,10:51:15
+69,A5326,2022-05-16,1,Marigold Flared Pants ,Babylon Club, Orange,12,Pants,Online,Afterpay,130.00,0.00,130.00,Express Australian Shipping,not refunded,justine Crowther,jcrowther@hotmail.com,AU,WA,11:47:54
+70,A5325,2022-05-14,1,Marigold Dress ,Babylon Club, Orange,12,Dress,Online,PayPal,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Agatha Dolan,agathandolan@gmail.com,AU,QLD,17:02:16
+71,A5324,2022-05-13,1,Elvira Flared Pants ,Babylon Club, White,10,Pants,Online,PayPal,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Laura Fiegert,laurafiegert@hotmail.com,AU,WA,15:05:14
+72,A5323,2022-05-11,1,Marigold Blouse ,Babylon Club, Orange,8,Top,Online,PayPal,100.00,0.00,100.00,Free shipping,not refunded,Sinead Allsop,sinead.allsop@hotmail.com,AU,WA,08:42:19
+73,A5322,2022-05-10,1,Elvira Blouse ,Babylon Club, White,10,Top,Online,Afterpay,100.00,0.00,100.00,Free shipping,not refunded,Bec Bird,bec@lovelunamei.com,AU,NSW,06:48:59
+74,A5321,2022-05-08,1,Marigold Dress ,Babylon Club, Orange,8,Dress,Online,Afterpay,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Liz McGuire,elizabethmcguire04@gmail.com,AU,WA,12:48:34
+75,A5320,2022-05-07,1,Marigold Dress ,Babylon Club, Orange,8,Dress,Online,PayPal,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Ella Carstens,ella.carstens@hotmail.com,AU,WA,17:31:27
+76,A5303,2022-05-05,1,Marigold Blouse ,Babylon Club, Orange,10,Top,Online,PayPal,100.00,0.00,100.00,Free shipping,not refunded,Sarah O'Leary,sales@getnakedhandmade.com,AU,WA,23:06:57
+77,A5302,2022-05-05,1,Marigold Dress ,Babylon Club, Orange,18,Dress,Online,Afterpay,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Shandre van Deventer,shandrevandeventer@hotmail.com,AU,WA,12:36:08
+78,A5301,2022-05-04,1,Marigold Romper ,Babylon Club, Orange,12,Romper,Online,PayPal,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Tara Fissenden,tara.fissenden@gmail.com,AU,NT,19:31:48
+79,A5299,2022-05-04,1,Arancia Track Shorts ,Tempo Libero, Brown,10,Shorts,Online,PayPal,99.00,0.00,99.00,Express Australian Shipping,not refunded,Zachary Greening,zacharywaltergreening@gmail.com,AU,QLD,05:45:23
+81,A5296,2022-04-30,1,Marigold Blouse ,Babylon Club, Orange,12,Top,Online,Afterpay,100.00,0.00,100.00,Express Australian Shipping,not refunded,Karina Pentreath,karina012@bigpond.com,AU,WA,09:57:41
+82,A5289,2022-04-26,1,Arancia Leggings ,Tempo Libero, Brown,8,Pants,Online,PayPal,110.00,0.00,110.00,Express Australian Shipping,not refunded,Debbie Smith,Ja.deb@bigpond.net.au,AU,WA,20:10:55
+83,A5286,2022-04-21,1,Marigold Romper ,Babylon Club, Orange,10,Romper,Online,Afterpay,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Olivia Pusey,oliviajpusey@gmail.com,AU,WA,18:59:54
+84,A5283,2022-04-21,1,Cocoa Flared Pants ,Babylon Club, Brown,10,Pants,Online,PayPal,130.00,0.00,130.00,Free shipping,not refunded,Amy Hall,amy.hall1173@gmail.com,AU,QLD,10:19:28
+85,A5282,2022-04-21,1,Marigold Halter ,Babylon Club, Orange,8,Top,Online,Afterpay,70.00,0.00,70.00,Free shipping,not refunded,Lisa Lindgren,lisa.lindgren@westnet.com.au,AU,WA,10:10:19
+87,A5280,2022-04-20,1,Elvira Mini Skirt ,Babylon Club, White,6,Skirt,Online,Afterpay,75.00,0.00,75.00,Free shipping,not refunded,Chloe Morien,chloemorien@gmail.com,AU,WA,17:26:03
+88,A5279,2022-04-19,1,Arancia Leggings ,Tempo Libero, Brown,10,Pants,Online,PayPal,110.00,0.00,110.00,Standard Australian Shipping,not refunded,Emma Gray,s2.emma@hotmail.com,AU,VIC,15:55:13
+89,A5278,2022-04-19,1,Marigold Blouse ,Babylon Club, Orange,8,Top,Online,PayPal,100.00,0.00,100.00,Standard Australian Shipping,not refunded,Lisa Rennie,rennie08@iinet.net.au,AU,WA,13:17:20
+90,A5277,2022-04-19,1,Arancia Cropped Tee ,Tempo Libero, Orange,14,Top,Online,PayPal,85.00,0.00,85.00,Standard Australian Shipping,not refunded,Kerry Hewitson,ker_den@hotmail.com,AU,WA,12:08:32
+91,A5276,2022-04-18,1,Arancia Track Shorts ,Tempo Libero, Brown,12,Shorts,Online,PayPal,99.00,0.00,99.00,Standard Australian Shipping,not refunded,Heidi Oliver,heidihayward@hotmail.com,AU,WA,23:05:25
+92,A5275,2022-04-18,1,Arancia Collar Bra ,Tempo Libero, Orange,6,Top,Online,Afterpay,85.00,0.00,85.00,Standard Australian Shipping,not refunded,Maggie Gray,maggie_r_g@hotmail.com,AU,QLD,16:04:12
+93,A5274,2022-04-18,1,Marigold Romper ,Babylon Club, Orange,12,Romper,Online,Afterpay,130.00,0.00,130.00,Free shipping,not refunded,Grace O’Dea,graceodea@outlook.com.au,AU,NSW,10:24:32
+94,A5273,2022-04-18,1,Marigold Mini Skirt ,Babylon Club, Orange,10,Skirt,Online,Afterpay,75.00,0.00,75.00,Express Australian Shipping,not refunded,Demi Westlund,demi.westlund@hotmail.com,AU,WA,09:09:46
+95,A5272,2022-04-18,1,Marigold Mini Skirt ,Babylon Club, Orange,10,Skirt,Online,Afterpay,75.00,0.00,75.00,Express Australian Shipping,not refunded,Demi Westlund,demi.westlund@hotmail.com,AU,WA,09:06:50
+96,A5271,2022-04-17,1,Elvira Dress ,Babylon Club, White,12,Dress,Online,PayPal,130.00,0.00,130.00,Free shipping,not refunded,Jordan Muscat,jord.berry@hotmail.com,AU,QLD,09:16:36
+97,A5270,2022-04-15,1,Cocoa Flared Pants ,Babylon Club, Brown,10,Pants,Online,Afterpay,130.00,46.00,104.00,Express Australian Shipping,not refunded,Abbey Basire,abbeybasire@yahoo.com.au,AU,WA,17:53:57
+98,A5269,2022-04-15,1,Marigold Halter ,Babylon Club, Orange,8,Top,Online,PayPal,70.00,0.00,70.00,Free shipping,not refunded,Alice Mulder,alice.mulder97@gmail.com,AU,WA,09:49:21
+99,A5268,2022-04-14,1,Elvira Mini Skirt ,Babylon Club, White,8,Skirt,Online,PayPal,75.00,0.00,75.00,Standard Australian Shipping,not refunded,Kya Pedrick,kya.2@hotmail.com,AU,WA,22:13:41
+100,A5267,2022-04-14,1,Elvira Crop ,Babylon Club, White,10,Top,Online,Afterpay,75.00,0.00,75.00,Standard Australian Shipping,not refunded,Lily Warren,lpwarren1@yahoo.com.au,AU,WA,21:21:10
+101,A5254,2022-04-14,1,Marigold Blouse ,Babylon Club, Orange,14,Top,Online,Afterpay,100.00,0.00,100.00,Free shipping,not refunded,Holly Tomlinson,holly.jay30@gmail.com,AU,WA,18:13:35
+102,A5253,2022-04-14,1,Elvira Flared Pants ,Babylon Club, White,6,Pants,Online,Afterpay,130.00,0.00,130.00,Free shipping,not refunded,monique gajda,moniquegajda8@gmail.com,AU,WA,17:40:28
+103,A5252,2022-04-14,1,Marigold Mini Skirt ,Babylon Club, Orange,10,Skirt,Online,PayPal,75.00,0.00,75.00,Standard Australian Shipping,not refunded,Tanya Cosgrove,Cosgrove.tanya@yahoo.com.au,AU,WA,17:18:55
+104,A5251,2022-04-14,1,Cocoa Flared Pants ,Babylon Club, Brown,12,Pants,Online,PayPal,130.00,0.00,130.00,Standard Australian Shipping,not refunded,Kate Fink,gosh_kate@hotmail.com,AU,WA,17:10:14
+105,A5250,2022-04-14,1,Marigold Dress ,Babylon Club, Orange,8,Dress,Online,PayPal,130.00,0.00,130.00,Free shipping,not refunded,Julia Hay,juliaadele@hotmail.com,AU,WA,17:07:13
+106,A5248,2022-04-14,1,Marigold Flared Pants ,Babylon Club, Orange,8,Pants,Online,PayPal,130.00,0.00,130.00,Free shipping,not refunded,Alana D’Souza,alanadsouza97@gmail.com,AU,WA,17:05:45
+107,A5213,2022-04-12,1,Arancia Short Shorts ,Tempo Libero, Brown,8,Shorts,Online,PayPal,85.00,51.00,59.50,Free shipping,not refunded,Renae Prott,talane@live.com.au,AU,WA,15:19:55
+108,A5147,2022-04-11,1,Blu Shirt ,Tempo Libero, Blue,6,Top,Online,PayPal,85.00,0.00,85.00,Free shipping,not refunded,Heidimarie Everett,heidimarieeverett@hotmail.com,AU,WA,17:50:52
+109,A5143,2022-04-11,1,Arancia Short Shorts ,Tempo Libero, Brown,8,Shorts,Online,PayPal,85.00,0.00,85.00,Standard Australian Shipping,not refunded,Rachael Withers,rachlouise@live.com.au,AU,NSW,11:53:24

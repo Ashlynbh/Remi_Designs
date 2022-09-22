@@ -1,0 +1,30 @@
+,id,date,quantity,item,collection,colour,size,clothing type,sales avenue,payment method,pre discount price,discount cash,post discount price,shipping,refunded,customer name,customer email,customer country,customer state,time
+2,B3,2022-04-24,1, Elvira Skirt,Babylon Club,White,8,Skirt,Physical,card,75.0,0.0,75.0,Null,not refunded,Null,Null,AU,WA,08:52:56
+3,B4,2022-04-24,1, Elvira Dress,Babylon Club,White,16,Dress,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,08:44:13
+5,B6,2022-04-24,1, Marigold Blouse,Babylon Club,Orange,8,Top,Physical,card,100.0,0.0,100.0,Null,not refunded,Null,Null,AU,WA,08:22:08
+6,B7,2022-04-24,1, Marigold Blouse,Babylon Club,Orange,10,Top,Physical,card,100.0,0.0,100.0,Null,not refunded,Null,Null,AU,WA,08:22:08
+8,B9,2022-04-24,1, Marigold Halter ,Babylon Club,Orange,6,Top,Physical,card,70.0,0.0,70.0,Null,not refunded,Null,Null,AU,WA,07:41:29
+9,B10,2022-04-24,1, Marigold Flared Pants,Babylon Club,Orange,8,Pants,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,07:41:29
+10,B11,2022-04-24,1, Elvira Crop,Babylon Club,White,10,Top,Physical,card,70.0,0.0,70.0,Null,not refunded,Null,Null,AU,WA,07:40:46
+11,B12,2022-04-24,1,Arancia Track Shorts,Tempo Libero,Brown,12,Shorts,Physical,card,99.0,0.0,99.0,Null,not refunded,Null,Null,AU,WA,07:29:36
+12,B13,2022-04-24,1,Arancia Collar Bra ,Tempo Libero,Orange,10,Top,Physical,card,85.0,0.0,85.0,Null,not refunded,Null,Null,AU,WA,07:29:36
+16,B17,2022-04-24,1, Marigold Dress,Babylon Club,Orange,12,Dress,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,05:49:18
+17,B18,2022-04-24,1,Blu Shirt,Tempo Libero,Blue,14,Top,Physical,card,85.0,0.0,85.0,Null,not refunded,Null,Null,AU,WA,05:37:35
+19,B20,2022-04-24,1, Marigold Romper ,Babylon Club,Orange,14,Romper,Physical,cash,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,05:34:49
+22,B23,2022-04-23,1, Marigold Halter ,Babylon Club,Orange,8,Top,Physical,card,70.0,0.0,70.0,Null,not refunded,Null,Null,AU,WA,13:19:24
+23,B24,2022-04-23,1, Marigold Flared Pants,Babylon Club,Orange,12,Pants,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,13:13:11
+24,B25,2022-04-23,1, Marigold Halter ,Babylon Club,Orange,10,Top,Physical,card,70.0,0.0,70.0,Null,not refunded,Null,Null,AU,WA,13:13:11
+29,B30,2022-04-23,1, Marigold Dress,Babylon Club,Orange,16,Dress,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,11:24:25
+31,B32,2022-04-23,1, Marigold Blouse,Babylon Club,Orange,8,Top,Physical,card,100.0,0.0,100.0,Null,not refunded,Null,Null,AU,WA,11:20:54
+39,B40,2022-04-23,1,Arancia Collar Bra ,Tempo Libero,Orange,12,Top,Physical,card,85.0,0.0,85.0,Null,not refunded,Null,Null,AU,WA,09:31:19
+40,B41,2022-04-23,1, Marigold Dress,Babylon Club,Orange,6,Dress,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,09:26:32
+42,B43,2022-04-23,1,Blu Collar Bra,Tempo Libero,Blue,10,Top,Physical,card,85.0,0.0,85.0,Null,not refunded,Null,Null,AU,WA,09:23:38
+43,B44,2022-04-23,1, Marigold Flared Pants,Babylon Club,Orange,10,Pants,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,09:15:47
+45,B46,2022-04-23,1, Marigold Blouse,Babylon Club,Orange,14,Top,Physical,card,100.0,0.0,100.0,Null,not refunded,Null,Null,AU,WA,09:07:27
+46,B47,2022-04-23,1, Marigold Flared Pants,Babylon Club,Orange,18,Pants,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,09:07:27
+47,B48,2022-04-23,1, Marigold Romper ,Babylon Club,Orange,10,Romper,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,07:44:50
+48,B49,2022-04-23,1, Marigold Skirt,Babylon Club,Orange,12,Skirt,Physical,card,75.0,0.0,75.0,Null,not refunded,Null,Null,AU,WA,07:04:49
+49,B50,2022-04-23,1, Marigold Romper ,Babylon Club,Orange,14,Romper,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,07:03:55
+50,B51,2022-04-23,1, Marigold Romper ,Babylon Club,Orange,12,Romper,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,06:59:03
+51,B52,2022-04-23,1,Blu Collar Bra,Tempo Libero,Blue,6,Top,Physical,card,85.0,0.0,85.0,Null,not refunded,Null,Null,AU,WA,06:55:18
+53,B54,2022-04-23,1, Marigold Dress,Babylon Club,Orange,14,Dress,Physical,card,130.0,0.0,130.0,Null,not refunded,Null,Null,AU,WA,06:35:36
